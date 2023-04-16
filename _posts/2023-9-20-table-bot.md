@@ -1,6 +1,7 @@
 ---
 title: "Autonomous Table Robot"
 tags: [robotics]
+pin: true
 ---
 
 [Demo](https://github.com/ncdejito/table-bot#demo---prototype-1)
