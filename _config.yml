@@ -20,10 +20,10 @@ timezone:
 
 title: ncdejito # the main title
 
-tagline: Robots | ML | Data | Graphs # it will display as the sub-title
+tagline: Robotics product engineer specializing in Computer Vision. Exploring the secrets of the universe as codified by technology. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Robotics product engineer specializing in Computer Vision.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://ncdejito.github.io"
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Niccolo Dejito
+  name: Cole Dej
   email: ncdejito@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -80,7 +80,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/images/why.jpg"
+avatar: "/images/freedom.jpeg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
