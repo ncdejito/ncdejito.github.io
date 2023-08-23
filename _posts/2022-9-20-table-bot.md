@@ -5,6 +5,7 @@ pin: true
 ---
 
 [Demo](https://github.com/ncdejito/table-bot#demo---prototype-1)
+[Slides](https://docs.google.com/presentation/d/1soTVk5oDR6poGmBGVkWSns3mVcw5qtx2BYByW9c3VRQ/edit#slide=id.g15d23346b1b_0_0)
 
 ## Contents
 * Perception - lidar, camera
