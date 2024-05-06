@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi! I'm Cole.
+Hi! I'm Cholo.
 
 I am a UPenn-trained robotics software engineer, NeurIPS-published computer vision researcher and a revenue-multiplier analyst, with work experience in engineering, analysis, and cross-functional collaboration.
 
