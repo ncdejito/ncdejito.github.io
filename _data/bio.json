@@ -1,113 +1,75 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
+    "name": "Niccolo Dejito",
+    "label": "Systems Engineer",
+    "picture": "https://github.com/ncdejito.png",
+    "email": "ncdejito@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "website": "https://ncdejito.github.io",
+    "summary": "A seasoned generalist with experience in product dev, tech consulting, telco, and finance, spanning multiple domains in software engineering and data science. I deliver tangible results for technically challenging problems, as I do now with my current role as Robotics Software Engineer.",
+    "location": { "address": "", "postalCode": "1012", "city": "Manila", "countryCode": "Philippines", "region": "NCR" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ncdejito", "url": "http://github.com/ncdejito" },
+      { "network": "linkedin", "username": "ncdejito", "url": "http://linkedin.com/in/niccolo-dejito-99060365/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Climate" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "C++", "PyTorch", "Assembly", "Common Lisp" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Ubuntu", "Git", "GCP" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Ateneo de Manila University, Quezon City, PH",
+      "area": "Applied Mathematics",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2011-06-01",
+      "endDate": "2015-03-01",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Dyson Electronics",
+      "position": "Robotics Software Engineer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-11-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Designing and implementing internal and cloud messaging in pub-sub, request-response architectures with production-grade C++, deployed to a global network of consumer vacuum robots"
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "company": "Thinking Machines Data Science",
+      "position": "Geospatial Machine Learning Consultant",
+      "website": "https://thinkingmachin.es/",
+      "startDate": "2019-10-01",
+      "endDate": "2023-10-01",
+      "summary": "Developed for external clients commercial APIs (FastAPI, Kubernetes, Serverless) and location-based datasets (including satellite imagery from DigitalGlobe, GEE, UP42) for telecommunications, real estate, oil/gas industries;"
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "company": "Smart Telecommunications",
+      "position": "Geozone Data Scientist",
+      "startDate": "2017-09-01",
+      "endDate": "2019-09-01",
+      "summary": "Developed for internal clients daily high throughput datasets in location-based info with internal cell site data, gigabytes partitioned across multiple worker nodes via a PostgreSQL fork called Teradata Aster"
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Global Top 30% in C++, Backend, Distributed Systems, DevOps",
       "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "TripleByte",
+      "summary": "Estimated aptitude ranking of software engineers globally"
     }
   ],
   "references": [
