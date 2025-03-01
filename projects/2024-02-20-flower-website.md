@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
+image: img/ncdejito/elvys.png
 labels:
-  - Docker
-  - ROS2
-  - Nav2
+  - No-code
+  - Shopify
 title: "Flower website"
 tags: [web]
 published: true

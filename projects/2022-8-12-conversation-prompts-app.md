@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/ncdejito/conversation-prompts.png
 labels:
   - Svelte
 title: "Conversation Prompts App"

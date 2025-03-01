@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/ncdejito/table-bot.png
 labels:
   - Python
   - FastAPI

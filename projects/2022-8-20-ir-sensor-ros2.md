@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/ncdejito/just-white.png
 labels:
   - ROS2
   - Python
