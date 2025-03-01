@@ -8,7 +8,7 @@ labels:
   - Electronics
   - Arduino
 title: "Autonomous Table Robot"
-tags: [robotics]
+tags: [robotics, web]
 pin: true
 ---
 

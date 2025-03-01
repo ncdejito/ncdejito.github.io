@@ -4,7 +4,7 @@ type: project
 labels:
   - Svelte
 title: "Conversation Prompts App"
-tags: [software]
+tags: [web]
 ---
 
 [App](https://ncdejito.github.io/conversation-prompts/)
