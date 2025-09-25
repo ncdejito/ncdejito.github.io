@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A seasoned generalist with experience in product dev, tech consulting, telco, and finance, spanning multiple domains in software engineering and data science. I deliver tangible results for technically challenging problems. Interested in uncovering what it means to be human as codified by technology.
+Hello! I am Niccolo 👋
+
+I am a Machine Learning Engineer with experience deploying machine learning models in production to both cloud and resource-constrained environments. I have had the privilege to contribute to several domains: product dev, tech consulting, telco, and finance, spanning multiple domains in software engineering and data science. I am proud of my technical skills in `systems engineering`, with my continued pursuit of technology-agnostic solution creation. My research interests are physical AI, climate robotics, and labor automation. I build technology to better understand people—how the digital systems we create are shaped by our needs and behaviors.
 
 Full professional history available [here](https://docs.google.com/document/d/1L2HT1Bjfv7BnsgdAqCrCup7nkEAGRLIdWRmofz4_8UI/edit?usp=sharing).

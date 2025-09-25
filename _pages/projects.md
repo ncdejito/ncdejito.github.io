@@ -2,7 +2,7 @@
 layout: page
 title: portfolio
 permalink: /projects/
-description: Collaborations with and for other people.
+description: Sample of work done with and for people
 nav: true
 nav_order: 3
 display_categories: [work, fun]

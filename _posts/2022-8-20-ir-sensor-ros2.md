@@ -5,7 +5,7 @@ date: 2024-01-27 11:46:00
 description: Connect IR Sensor to ROS2
 tags: swe
 categories: deployment
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/ncdejito/ir-sensor-ros2.png
 images:
   compare: true
   slider: true

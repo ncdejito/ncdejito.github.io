@@ -4,8 +4,8 @@ title: Conversation Prompts App
 date: 2024-01-27 11:46:00
 description: Conversation Prompts App
 tags: swe
-categories: novel-use-cases
-thumbnail: assets/img/9.jpg
+categories: case-study
+thumbnail: assets/img/ncdejito/conversation-prompts.png
 images:
   compare: true
   slider: true

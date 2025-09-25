@@ -5,7 +5,7 @@ date: 2024-01-27 11:46:00
 description: Python and Arduino via Smartphones
 tags: swe
 categories: deployment
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/ncdejito/arduino-android.png
 images:
   compare: true
   slider: true

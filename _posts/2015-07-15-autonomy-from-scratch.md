@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
-tags: formatting code
-categories: sample-posts
+title: Autonomy from scratch
+date: 2024-07-15 15:09:00
+description: Opinionated guide on building from scratch
+tags: swe
+categories: tradeoffs
 ---
 
 This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.

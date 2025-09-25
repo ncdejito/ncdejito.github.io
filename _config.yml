@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: blog # blog_name will be displayed in your blog page
-blog_description: posts describing experiments and work done and thinking process.
+blog_description: chosen experiments and thinking process.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -123,12 +123,20 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
+  # - name: TM Blog
+  #   posts:
+  #     - url: https://stories.thinkingmachin.es/solar-panel-data-clark/
+  #       published_date: 2023-07-14
+  # - name: TM Blog
+  #   posts:
+  #     - url: https://stories.thinkingmachin.es/bangkok-mapbox-movement/
+  #       published_date: 2021-07-14
+  # - name: TM Blog
+  #   posts:
+  #     - url: https://stories.thinkingmachin.es/quarantine-in-a-multicultural-hub-exploring-mapbox-telemetry-in-singapore/
+  #       published_date: 2021-07-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -257,7 +265,7 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["ml", "swe", "data"] # these tags will be displayed on the front page of your blog
-display_categories: ["deployment", "tradeoffs", "novel-use-cases"] # these categories will be displayed on the front page of your blog
+display_categories: ["deployment", "tradeoffs", "case-study"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

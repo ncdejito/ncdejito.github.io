@@ -5,7 +5,7 @@ date: 2024-01-27 11:46:00
 description: Simulate robot navigation inside Docker
 tags: swe
 categories: deployment
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/ncdejito/nav2_docker.png
 images:
   compare: true
   slider: true
