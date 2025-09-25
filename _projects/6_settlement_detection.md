@@ -8,7 +8,11 @@ category: work
 giscus_comments: false
 ---
 
-Project context: https://stories.thinkingmachin.es/mapping-new-informal-settlements/
+Project context: [External blogpost](https://stories.thinkingmachin.es/mapping-new-informal-settlements/)
+
+For my contributions, I was privileged to be granted primary authorship of the following 2 papers, which got accepted into the globally recognized conference `NeurIPS`.
+* [2021 NeurIPS](https://arxiv.org/abs/2111.04134) Primary author for Mapping Access to Water and Sanitation using Publicly Accessible Satellite Imagery;
+* [2020 NeurIPS](https://arxiv.org/abs/2008.13583) Primary author for Mapping New Informal Settlements Using Machine Learning and Satellite Images;
 
 Personal contributions:
 * Pioneered the use of Google Earth Engine for data extraction, ingestion and processing;

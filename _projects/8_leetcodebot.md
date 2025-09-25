@@ -7,4 +7,4 @@ importance: 8
 category: fun
 ---
 
-https://github.com/ncdejito/leetcode-bot
+[Repository](https://github.com/ncdejito/leetcode-bot)

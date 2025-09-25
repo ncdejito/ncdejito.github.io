@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-Project context: https://stories.thinkingmachin.es/vision-ai-floating-tanks-maintenance/
+Project context: [External blogpost](https://stories.thinkingmachin.es/vision-ai-floating-tanks-maintenance/)
 
 Personal contributions:
 * Reduced health risks by automating site inspection with a satellite computer vision product deployed in GCP Cloud Run;

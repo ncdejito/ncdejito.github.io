@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-Project context: https://stories.thinkingmachin.es/how-ohmyhome-used-machine-learning-for-real-estate-valuation/
+Project context: [External blogpost](https://stories.thinkingmachin.es/how-ohmyhome-used-machine-learning-for-real-estate-valuation/)
 
 Personal contributions:
 * Led development of 3 backend APIs serving ML models for real estate price prediction, leading to extended client engagement with 2 more APIs, by following `MLOps` best practices and `CI/CD` with Kubernetes;

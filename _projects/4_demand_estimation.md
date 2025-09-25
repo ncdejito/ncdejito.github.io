@@ -2,14 +2,14 @@
 layout: page
 title: Demand Estimation
 description: Rollout on gigabytes of image
-img: assets/img/4.jpg
+img: assets/img/4.png
 importance: 4
 category: work
 giscus_comments: false
 ---
 (c) Headline image from [ThinkingMachine blogpost](https://stories.thinkingmachin.es/bridging-the-gap-with-geoai/)
 
-Project context: https://stories.thinkingmachin.es/wealth-detection-satellite-image/
+Project context: [External blogpost](https://stories.thinkingmachin.es/wealth-detection-satellite-image/)
 * A comparable project as above but with larger regional provider, anonymized to preserve client identity.
 
 Personal contributions:
