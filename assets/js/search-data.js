@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-portfolio",
           title: "portfolio",
-          description: "Collaborations with and for other people.",
+          description: "Sample of work done with and for people",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -30,26 +30,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-",
+        },{id: "post-evaluating-physical-workflows-with-vlms",
         
-          title: "",
+          title: "Evaluating physical workflows with VLMs",
         
-        description: "",
+        description: "Assessing the quality of a factory supply chain with LLM-as-Judge",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2022-10-28-lidar-map/";
+            window.location.href = "/blog/2024/evaluating-physical-workflows-with-VLMs/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+      },{id: "post-autonomy-from-scratch",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Autonomy from scratch",
         
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        description: "Opinionated guide on building from scratch",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+            window.location.href = "/blog/2024/autonomy-from-scratch/";
           
         },
       },{id: "post-connect-ir-sensor-to-ros2",
@@ -85,17 +85,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/nav2-docker/";
           
         },
-      },{id: "post-pingpong-bot",
-        
-          title: "Pingpong Bot",
-        
-        description: "Pingpong Bot",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/pingpong-bot/";
-          
-        },
       },{id: "post-python-and-arduino-via-smartphones",
         
           title: "Python and Arduino via Smartphones",
@@ -105,6 +94,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/android-arduino/";
+          
+        },
+      },{id: "post-vegvisir-2d-map-from-lidar",
+        
+          title: "Vegvisir - 2D Map from LiDAR",
+        
+        description: "2D maps just from LIDAR",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/lidar-map/";
           
         },
       },{id: "post-the-psycellium",
@@ -129,6 +129,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/albums/";
           
         },
+      },{id: "post-pingpong-bot",
+        
+          title: "Pingpong Bot",
+        
+        description: "Pingpong Bot",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/pingpong-bot/";
+          
+        },
       },{id: "post-remote-control-car",
         
           title: "Remote-control Car",
@@ -138,28 +149,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2022/rc-car/";
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/autonomy-from-scratch/";
           
         },
       },{id: "books-the-godfather",
@@ -187,31 +176,46 @@ ninja.data = [{
           description: "Professional experience designing inference pipeline",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_vlmscoping/";
-            },},{id: "projects-satellite-prediction",
-          title: 'Satellite prediction',
-          description: "Rollout on country wide dataset",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_satellite/";
-            },},{id: "projects-table-robot",
-          title: 'Table robot',
-          description: "Making an autonomous table from scratch",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_table_robot/";
-            },},{id: "projects-e-commerce-website",
-          title: 'E-commerce website',
-          description: "Revenue-generating website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_flower_website/";
             },},{id: "projects-freespace-detection-optimization",
           title: 'Freespace detection optimization',
           description: "Enabled new methods for navigation with 3x speedup",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_freespace/";
+              window.location.href = "/projects/2_freespace/";
+            },},{id: "projects-maintenance-automation",
+          title: 'Maintenance Automation',
+          description: "Reduce site visits with satellite CV",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_maintenance_automation/";
+            },},{id: "projects-demand-estimation",
+          title: 'Demand Estimation',
+          description: "Rollout on gigabytes of image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_demand_estimation/";
+            },},{id: "projects-price-prediction-api",
+          title: 'Price Prediction API',
+          description: "Using ML for automated price estimation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_price_api/";
+            },},{id: "projects-settlement-detection",
+          title: 'Settlement Detection',
+          description: "Rollout on country wide dataset",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_settlement_detection/";
+            },},{id: "projects-table-robot",
+          title: 'Table robot',
+          description: "Making an autonomous table from scratch",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_table_robot/";
             },},{id: "projects-leetcode-backend-service",
           title: 'Leetcode backend service',
           description: "Sends problems daily to Recurse Center&#39;s Zulip client.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_leetcodebot/";
+              window.location.href = "/projects/8_leetcodebot/";
+            },},{id: "projects-e-commerce-website",
+          title: 'E-commerce website',
+          description: "Revenue-generating website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_flower_website/";
             },},{
         id: 'social-email',
         title: 'email',
