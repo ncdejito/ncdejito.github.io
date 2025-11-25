@@ -30,29 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-evaluating-physical-workflows-with-vlms",
-        
-          title: "Evaluating physical workflows with VLMs",
-        
-        description: "Assessing the quality of a factory supply chain with LLM-as-Judge",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/evaluating-physical-workflows-with-VLMs/";
-          
-        },
-      },{id: "post-autonomy-from-scratch",
-        
-          title: "Autonomy from scratch",
-        
-        description: "Opinionated guide on building from scratch",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/autonomy-from-scratch/";
-          
-        },
-      },{id: "post-connect-ir-sensor-to-ros2",
+        },{id: "post-connect-ir-sensor-to-ros2",
         
           title: "Connect IR Sensor to ROS2",
         
@@ -156,18 +134,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-tool-calling-with-mcp",
-          title: 'Tool calling with MCP',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "news-model-regression-testing",
-          title: 'Model regression testing',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-vlaops-blogpost",
-          title: 'VLAOps blogpost',
+            },},{id: "news-return",
+          title: 'Return',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
