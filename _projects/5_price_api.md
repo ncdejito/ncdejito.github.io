@@ -2,7 +2,7 @@
 layout: page
 title: Price Prediction API
 description: Using ML for automated price estimation
-img: assets/img/5.jpeg
+img: assets/img/ncdejito/price-prediction.jpeg
 importance: 5
 category: work
 giscus_comments: false

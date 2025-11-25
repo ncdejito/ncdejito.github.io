@@ -2,7 +2,7 @@
 layout: page
 title: Freespace detection optimization
 description: Enabled new methods for navigation with 3x speedup
-img: assets/img/ncdejito/slam.jpg
+img: assets/img/ncdejito/slam.png
 importance: 2
 category: work
 related_publications: false

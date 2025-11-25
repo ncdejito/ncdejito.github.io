@@ -2,7 +2,7 @@
 layout: page
 title: Maintenance Automation
 description: Reduce site visits with satellite CV
-img: assets/img/3.png
+img: assets/img/ncdejito/tank-maintenance.png
 importance: 3
 category: work
 giscus_comments: false

@@ -2,7 +2,7 @@
 layout: page
 title: Settlement Detection
 description: Rollout on country wide dataset
-img: assets/img/6.png
+img: assets/img/ncdejito/settlement-detection.png
 importance: 6
 category: work
 giscus_comments: false

@@ -2,7 +2,7 @@
 layout: page
 title: Demand Estimation
 description: Rollout on gigabytes of image
-img: assets/img/4.png
+img: assets/img/ncdejito/demand-estimation.png
 importance: 4
 category: work
 giscus_comments: false
