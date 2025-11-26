@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-portfolio",
           title: "portfolio",
-          description: "Sample of work done with and for people",
+          description: "Sample of work done under professional and personal contexts",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -139,49 +139,49 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-vlm-scoping",
-          title: 'VLM Scoping',
-          description: "Professional experience designing inference pipeline",
+            },},{id: "projects-vision-language-action-models-in-production",
+          title: 'Vision Language Action Models in Production',
+          description: "Wrote delivery plan from research prototypes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_vlmscoping/";
-            },},{id: "projects-freespace-detection-optimization",
-          title: 'Freespace detection optimization',
-          description: "Enabled new methods for navigation with 3x speedup",
+            },},{id: "projects-navigating-uncertainty-with-computer-vision",
+          title: 'Navigating Uncertainty with Computer Vision',
+          description: "Enabled new methods for navigation with 3x faster image throughput",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_freespace/";
-            },},{id: "projects-maintenance-automation",
-          title: 'Maintenance Automation',
-          description: "Reduce site visits with satellite CV",
+            },},{id: "projects-asset-inspection-saves-lives",
+          title: 'Asset Inspection Saves Lives',
+          description: "Deployed backend service to prevent dangerous site visits",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_maintenance_automation/";
-            },},{id: "projects-demand-estimation",
-          title: 'Demand Estimation',
-          description: "Rollout on gigabytes of image",
+            },},{id: "projects-find-customers-without-years-of-data-collection",
+          title: 'Find customers without years of data collection',
+          description: "Estimate customer demand from satellite image based computer vision AI model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_demand_estimation/";
-            },},{id: "projects-price-prediction-api",
-          title: 'Price Prediction API',
-          description: "Using ML for automated price estimation",
+            },},{id: "projects-faster-apartment-deals-with-ml",
+          title: 'Faster apartment deals with ML',
+          description: "Deployed ML backend services for instantaneous price estimates",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_price_api/";
-            },},{id: "projects-settlement-detection",
-          title: 'Settlement Detection',
-          description: "Rollout on country wide dataset",
+            },},{id: "projects-direct-foreign-aid-faster-with-ai",
+          title: 'Direct foreign aid faster with AI',
+          description: "Deployed computer vision model on whole country to find vulnerable locations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_settlement_detection/";
-            },},{id: "projects-table-robot",
-          title: 'Table robot',
-          description: "Making an autonomous table from scratch",
+            },},{id: "projects-building-a-robot-from-scratch",
+          title: 'Building a robot from scratch',
+          description: "Programmed, sourced parts, wired electronics. It&#39;s alive! 🧟‍♂️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_table_robot/";
-            },},{id: "projects-leetcode-backend-service",
-          title: 'Leetcode backend service',
-          description: "Sends problems daily to Recurse Center&#39;s Zulip client.",
+            },},{id: "projects-leetcode-as-a-service",
+          title: 'Leetcode-as-a-Service',
+          description: "Deployed service sending Leetcode problems daily to Recurse Center&#39;s Zulip client.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_leetcodebot/";
-            },},{id: "projects-e-commerce-website",
-          title: 'E-commerce website',
-          description: "Revenue-generating website",
+            },},{id: "projects-selling-flowers-online",
+          title: 'Selling flowers online',
+          description: "Deployed an e-commerce website that generated 52x RoI 🤯",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_flower_website/";
             },},{
