@@ -1,7 +1,7 @@
 ---
 layout: page
-title: E-commerce website
-description: Revenue-generating website
+title: Selling flowers online
+description: Deployed an e-commerce website that generated 52x RoI 🤯
 img: assets/img/ncdejito/elvys.png
 importance: 9
 category: fun
@@ -12,7 +12,7 @@ category: fun
 
 2025 update: still being used and making money
 
-I got this really cool rose as a bonus from a client on a part-time gig! Here are the things I did:
+I got the really cool rose as a bonus from a client on a part-time gig! Here are the things I did:
 
 To make the client happy, I delivered on what they asked:
 * Automated raw material planning and delivery charge calculation, providing clarity and basis for critical business decisions;

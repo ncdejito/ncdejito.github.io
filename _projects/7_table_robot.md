@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Table robot
-description: Making an autonomous table from scratch
+title: Building a robot from scratch
+description: Programmed, sourced parts, wired electronics. It's alive! 🧟‍♂️
 img: assets/img/ncdejito/table-bot.png
 importance: 7
 category: fun
 ---
+
+I built a table robot from scratch! I am driven by strong belief that the physical world is where the next frontier for lasting meaningful impact is.
 
 [Demo](https://github.com/ncdejito/table-bot#demo---prototype-1)
 [Slides](https://docs.google.com/presentation/d/1soTVk5oDR6poGmBGVkWSns3mVcw5qtx2BYByW9c3VRQ/edit#slide=id.g15d23346b1b_0_0)
@@ -16,7 +18,7 @@ category: fun
 * Movement - wiring, bill of materials, rpi setup
 
 ## Use Cases
-platform for high-value tech
+Why: Platform for high-value tech
 * Logistics - indoor warehousing, outdoor delivery
 * Agriculture - autonomous watering, fertilizer spraying, weeding
 * Construction - build site monitoring, floor plan sketching

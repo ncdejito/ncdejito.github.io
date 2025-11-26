@@ -2,7 +2,7 @@
 layout: page
 title: portfolio
 permalink: /projects/
-description: Sample of work done with and for people
+description: Sample of work done under professional and personal contexts
 nav: true
 nav_order: 3
 display_categories: [work, fun]
