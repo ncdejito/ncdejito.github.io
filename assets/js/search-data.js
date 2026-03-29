@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-connect-ir-sensor-to-ros2",
+        },{id: "post-physical-world-as-the-next-ai-frontier",
+        
+          title: "Physical World as the Next AI Frontier",
+        
+        description: "Research on funding and opportunities in Physical AI",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/robogdp/";
+          
+        },
+      },{id: "post-connect-ir-sensor-to-ros2",
         
           title: "Connect IR Sensor to ROS2",
         
