@@ -140,6 +140,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/rc-car/";
           
         },
+      },{id: "post-optimizing-fleet-operations-from-the-telecom-learnings",
+        
+          title: "Optimizing Fleet Operations from the Telecom Learnings",
+        
+        description: "Lessons from building subscriber mobility systems that fleet managers can use",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/mobility-studies-telco/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
