@@ -161,33 +161,33 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-vision-language-action-models-in-production",
-          title: 'Vision Language Action Models in Production',
-          description: "Wrote delivery plan from research prototypes",
+            },},{id: "projects-from-lab-to-fleet-deploying-vlms-at-scale",
+          title: 'From Lab to Fleet: Deploying VLMs at Scale',
+          description: "From research prototypes to implementation delivery plan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_vlmscoping/";
-            },},{id: "projects-navigating-uncertainty-with-computer-vision",
-          title: 'Navigating Uncertainty with Computer Vision',
-          description: "Enabled new methods for navigation with 3x faster image throughput",
+            },},{id: "projects-real-time-visual-navigation-for-autonomous-systems",
+          title: 'Real-Time Visual Navigation for Autonomous Systems',
+          description: "3x faster image throughput enabled new methods for navigation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_freespace/";
-            },},{id: "projects-asset-inspection-saves-lives",
-          title: 'Asset Inspection Saves Lives',
-          description: "Deployed backend service to prevent dangerous site visits",
+            },},{id: "projects-ai-powered-inspection-eliminating-dangerous-site-visits",
+          title: 'AI-Powered Inspection: Eliminating Dangerous Site Visits',
+          description: "Prevent dangerous site visits by automating inspection with satellite intelligence",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_maintenance_automation/";
-            },},{id: "projects-find-customers-without-years-of-data-collection",
-          title: 'Find customers without years of data collection',
-          description: "Estimate customer demand from satellite image based computer vision AI model",
+            },},{id: "projects-satellite-driven-demand-intelligence",
+          title: 'Satellite-Driven Demand Intelligence',
+          description: "Estimate customer demand 10x faster from satellite computer vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_demand_estimation/";
-            },},{id: "projects-faster-apartment-deals-with-ml",
-          title: 'Faster apartment deals with ML',
-          description: "Deployed ML backend services for instantaneous price estimates",
+            },},{id: "projects-data-driven-property-valuation-using-ml",
+          title: 'Data-Driven Property Valuation using ML',
+          description: "Close deals faster with data-grounded, ML-powered price estimates",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_price_api/";
-            },},{id: "projects-direct-foreign-aid-faster-with-ai",
-          title: 'Direct foreign aid faster with AI',
+            },},{id: "projects-country-scale-vulnerability-mapping-with-computer-vision",
+          title: 'Country-Scale Vulnerability Mapping with Computer Vision',
           description: "Deployed computer vision model on whole country to find vulnerable locations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_settlement_detection/";
