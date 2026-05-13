@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Find customers without years of data collection
-description: Estimate customer demand from satellite image based computer vision AI model
+title: Satellite-Driven Demand Intelligence
+description: Estimate customer demand 10x faster from satellite computer vision
 img: assets/img/ncdejito/demand-estimation.png
 importance: 4
 category: work

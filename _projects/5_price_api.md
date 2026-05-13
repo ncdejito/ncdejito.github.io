@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Faster apartment deals with ML
-description: Deployed ML backend services for instantaneous price estimates
+title: Data-Driven Property Valuation using ML
+description: Close deals faster with data-grounded, ML-powered price estimates
 img: assets/img/ncdejito/price-prediction.jpeg
 importance: 5
 category: work
@@ -12,8 +12,6 @@ Project context: [External blogpost](https://stories.thinkingmachin.es/how-ohmyh
 Description: Leading the development, deployment, and MLOps lifecycle for real estate price prediction models across multiple international markets for a major PropTech client.
 
 This project focused on developing and productionalizing machine learning models to provide accurate, real-time real estate valuation and pricing for an international client (Ohmyhome, as per the context link). My role was central to the entire lifecycle, ensuring model performance, maintaining low-latency service, and implementing the MLOps practices necessary for scale and reliability across distinct markets.
-
-🌟 My Contributions to Real Estate Valuation ML
 
 #### Situation
 

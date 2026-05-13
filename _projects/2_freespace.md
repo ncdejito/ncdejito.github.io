@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Navigating Uncertainty with Computer Vision
-description: Enabled new methods for navigation with 3x faster image throughput
+title: Real-Time Visual Navigation for Autonomous Systems
+description: 3x faster image throughput enabled new methods for navigation
 img: assets/img/ncdejito/slam.png
 importance: 2
 category: work

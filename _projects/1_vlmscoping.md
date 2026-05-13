@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vision Language Action Models in Production
-description: Wrote delivery plan from research prototypes
+title: "From Lab to Fleet: Deploying VLMs at Scale"
+description: From research prototypes to implementation delivery plan
 img: assets/img/ncdejito/vlm.png
 importance: 1
 category: work

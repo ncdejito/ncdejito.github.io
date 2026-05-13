@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Direct foreign aid faster with AI
+title: Country-Scale Vulnerability Mapping with Computer Vision
 description: Deployed computer vision model on whole country to find vulnerable locations
 img: assets/img/ncdejito/settlement-detection.png
 importance: 6

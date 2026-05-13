@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Asset Inspection Saves Lives
-description: Deployed backend service to prevent dangerous site visits
+title: "AI-Powered Inspection: Eliminating Dangerous Site Visits"
+description: Prevent dangerous site visits by automating inspection with satellite intelligence
 img: assets/img/ncdejito/tank-maintenance.png
 importance: 3
 category: work
