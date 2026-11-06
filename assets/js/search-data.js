@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/robogdp/";
           
         },
+      },{id: "post-sa-kaharian-ng-araw-cholo-39-s-version",
+        
+          title: "Sa Kaharian ng Araw (Cholo&#39;s Version)",
+        
+        description: "Isang muling pagsulat sa orihinal na likha ni G. Pagsanghan",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/sa-kaharian-ng-araw/";
+          
+        },
       },{id: "post-connect-ir-sensor-to-ros2",
         
           title: "Connect IR Sensor to ROS2",
