@@ -1,23 +1,13 @@
 ---
-layout: post
-title: Pingpong Bot
-date: 2023-01-27 11:46:00
-description: Pingpong Bot
-tags: swe
-categories: case-study
-thumbnail: assets/img/ncdejito/pingpong_side.jfif
-images:
-  compare: true
-  slider: true
-featured: true
+title: "Pingpong Bot"
+tags: [robotics]
 ---
-
 
 #### Summary
 
 Prototyped Pingpong shooter bot described in [[1]](https://hlung.medium.com/how-to-make-a-ping-pong-shooter-robot-dafb46ec255e)
 
-<img class="img-fluid" src="assets/img/ncdejito/pingpong_vid.gif">
+![an image alt text]({{ site.baseurl }}/images/pingpong_vid.gif "pingpong_vid")
 
 #### Tools used
 * Hand drill
@@ -34,11 +24,11 @@ Complete list in [1], unavailable parts in the PH listed down here, along with r
 * Steel hanger strap -> Drilling holes in the pipe, chopsticks and electrical tape 😅
 * Added an on/off switch for the feeder motor
 
-<img class="img-fluid" src="assets/img/ncdejito/pingpong_back.jfif">
-<img class="img-fluid" src="assets/img/ncdejito/pingpong_side.jfif">
+![an image alt text]({{ site.baseurl }}/images/pingpong_back.jfif "pingpong_back")
+![an image alt text]({{ site.baseurl }}/images/pingpong_side.jfif "pingpong_side")
 Working prototype
 
-<img class="img-fluid" src="assets/img/ncdejito/pingpong_early.jfif">
+![an image alt text]({{ site.baseurl }}/images/pingpong_early.jfif "pingpong_early")
 Prototyping chopsticks
 
 #### References

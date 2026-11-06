@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Simulate robot navigation inside Docker
-date: 2024-01-27 11:46:00
-description: Simulate robot navigation inside Docker
-tags: swe
-categories: deployment
-thumbnail: assets/img/ncdejito/nav2_docker.png
-images:
-  compare: true
-  slider: true
+title: "Simulate robot navigation inside Docker"
+tags: [robotics]
 ---
 
 #### Summary
 
 Run Nav2 quickstart inside Docker
 
-<img class="img-fluid" src="../img/ncdejito/nav2_docker.png">
+![an image alt text]({{ site.baseurl }}/images/nav2_docker.png "nav2-docker")
 
 #### Why
 * Reduce setup steps by getting ROS pre-installed
