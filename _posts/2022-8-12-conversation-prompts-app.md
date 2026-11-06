@@ -1,7 +1,16 @@
 ---
-title: "Conversation Prompts App"
-tags: [software]
+layout: post
+title: Conversation Prompts App
+date: 2024-01-27 11:46:00
+description: Conversation Prompts App
+tags: swe
+categories: case-study
+thumbnail: assets/img/ncdejito/conversation-prompts.png
+images:
+  compare: true
+  slider: true
 ---
+
 
 [App](https://ncdejito.github.io/conversation-prompts/)
 

@@ -1,8 +1,13 @@
 ---
-title: "Sa Kaharian ng Araw (Cholo's Version)"
-tags: [fiction]
+layout: post
+title: Sa Kaharian ng Araw (Cholo's Version)
+date: 2024-05-06 02:00:00
+description: Isang muling pagsulat sa orihinal na likha ni G. Pagsanghan
+tags: fiction
+categories: fiction
 ---
-<i>Isang muling pagsulat sa orihinal na likha ni G. Pagsanghan</i>
+
+*Isang muling pagsulat sa orihinal na likha ni G. Pagsanghan*
 
 Merong isang lalaki na nangarap makarating sa Kaharian ng Araw dahil sa mga narinig niyang kwento tungkol sa mga kayamanan nito kaya naglayag siya para dito kasama ang kanyang kaibigan at mga kagamitang inisip niyang makatutulong sa kanyang paglalakbay
 

@@ -1,5 +1,14 @@
 ---
-title: "Python and Arduino via Smartphones"
+layout: post
+title: Python and Arduino via Smartphones
+date: 2024-01-27 11:46:00
+description: Python and Arduino via Smartphones
+tags: swe
+categories: deployment
+thumbnail: assets/img/ncdejito/arduino-android.png
+images:
+  compare: true
+  slider: true
 ---
 
 #### Summary
